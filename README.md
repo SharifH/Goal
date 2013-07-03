@@ -7,6 +7,11 @@ Target Audience: People who want to travel and set up all their stops prior to l
 
 Road Map
 
+Add a list function in order for people to figure out where they want to go and allow 
+them to remove the locations once they have set the plan to travel there. This is simply 
+to create orginaztion in order for them to get all the places they plan on going set up so as they will
+not miss out on anything during their trip.
+
 Calander integration
 
 Google Maps integration
